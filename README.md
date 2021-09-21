@@ -1,1 +1,2 @@
 # Chatbot-Using-Python-
+This is a chatbot made using NLP and keras. Chatbots are used a lot in customer interaction, marketing on social network sites and instantly messaging the client. Chatbot is trained on a dataset which contains categories, pattern and responses. We use a LSTM to classify which category the user’s message belongs to and then we will give an accurate response from the list of responses.
